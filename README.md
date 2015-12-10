@@ -45,6 +45,26 @@ Replace the content in brackets for each meta tag for the information of your ar
 ```
 ###Step 3
 Include the code from ``functions.js`` and  ``style.css`` into your code files.  If you have a main javascript file in your site, then include the code from ``functions.js``. And do the same with the css file. Just copy the styles from ``style.css`` into your main css file.
+Then add the following HTML into your page in order to display the buttons
+
+```HTML
+<!-- Buttons, Copy this to your Page Article -->
+<div class="share-buttons-row">
+	<!--Facebook's Button -->
+	<div class="share-fb"></div>
+	<!--Twitter's Button -->
+	<div class="share-twitter"></div>
+	<!--Facebook's Button -->
+	<div class="share-google-plus"></div>
+	<!--Linkedin's Button -->
+	<div class="share-linkedin"></div>
+	<!--Pinterest's Button -->
+	<div class="share-pinterest"></div>
+	<!--Tumblr's Button -->
+	<div class="share-tumblr"></div>
+</div>
+```
+
 
 ###and that's it!
 
