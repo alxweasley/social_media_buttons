@@ -49,7 +49,7 @@ Include the code from ``functions.js`` and  ``style.css`` into your code files. 
 ###and that's it!
 
 ###Notes
-1. If you are working with PHP or ASP.NET you can replace the content in meta tags automatically by printing your variables in the content.
+- If you are working with PHP or ASP.NET you can replace the content in meta tags automatically by printing your variables in the content.
 
 For example in PHP. You can do something like this:
 
@@ -59,5 +59,4 @@ For example in PHP. You can do something like this:
 ...
 <meta property="og:image" 				content="<?php echo $article_info['main_image']; ?>"/>
 ```
-
-2. Adding the URL of your main image into the <meta property="og:image" 				content=""/> is not enough, you have to display the image somewhere in your article, otherwise you won't see the "preview image" when you are sharing the image through facebook.
+- Adding the URL of your main image into the <meta property="og:image" 				content=""/> is not enough, you have to display the image somewhere in your article, otherwise you won't see the "preview image" when you are sharing the image through facebook.
