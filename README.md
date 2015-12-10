@@ -19,7 +19,7 @@ Buttons:
 ###Step 1
 In order to use these buttons you need to include the OpenGraph Meta Tags in your page, you can find them in the ``index.html`` file.
 ###Step 2
-Replace the content in brackets for each meta tag for the information of your article. For example:
+Replace the content in brackets for each meta tag with the information of your article. For example:
 ```html
 <meta name="description" 				content="The first thing Game Of Thrones released to tease its upcoming sixth season was a poster featuring Jon Snow.">
 <meta name="author" 					content="Mahsource">
