@@ -59,4 +59,4 @@ For example in PHP. You can do something like this:
 ...
 <meta property="og:image" 				content="<?php echo $article_info['main_image']; ?>"/>
 ```
-- Adding the URL of your main image into the <meta property="og:image" 				content=""/> is not enough, you have to display the image somewhere in your article, otherwise you won't see the "preview image" when you are sharing the image through facebook.
+- Adding the URL of your main image into the ``<meta property="og:image" 				content=""/>`` is not enough, you have to display the image somewhere in your article, otherwise you won't see the "preview image" when you are sharing the image through facebook.
