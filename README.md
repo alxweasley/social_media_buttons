@@ -1,5 +1,5 @@
 # Share social media buttons
-Add social media buttons to share articles in your website. Preview here: http://mahcode.com/share_article/
+Add social media buttons to share articles in your website. Preview [here](http://mahcode.com/share_article/)
 
 Buttons:
 
