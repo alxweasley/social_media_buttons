@@ -29,8 +29,8 @@ Replace the content in brackets for each meta tag with the information of your a
 <meta property="og:description" 		content="The first thing Game Of Thrones released to tease its upcoming sixth season was a poster featuring Jon Snow."/>
 <meta property="og:url" 				content="http://mahcode.com/share_article"/>
 <meta property="og:site_name" 			content="mahcode.com"/>
-<meta property="article:publisher" 		content="[https://www.facebook.com/Mahcode-849841581779986]"/>
-<meta property="article:published_time" content="2015-12-10T02:05:30Z]"/>
+<meta property="article:publisher" 		content="https://www.facebook.com/Mahcode-849841581779986"/>
+<meta property="article:published_time" content="2015-12-10T02:05:30Z"/>
 <meta property="og:image" 				content="http://mahcode.com/share_article/teaser-jon-snow.jpg"/>
   
 
