@@ -27,7 +27,7 @@ Replace the content in brackets for each meta tag with the information of your a
 <meta property="og:type" 				content="article"/>
 <meta property="og:title" 				content="Game of Thrones Season 6: Tease"/>
 <meta property="og:description" 		content="The first thing Game Of Thrones released to tease its upcoming sixth season was a poster featuring Jon Snow."/>
-<meta property="og:url" 				content="http://mahcode.com/share_article"/>
+<meta property="og:url" 				content="http://mahcode.com/share_article/"/>
 <meta property="og:site_name" 			content="mahcode.com"/>
 <meta property="article:publisher" 		content="https://www.facebook.com/Mahcode-849841581779986"/>
 <meta property="article:published_time" content="2015-12-10T02:05:30Z"/>
@@ -41,8 +41,9 @@ Replace the content in brackets for each meta tag with the information of your a
 <meta name="twitter:creator" 			content="@itsmahcode"/>
 <meta name="twitter:via" 				content="itsmahcode"/>
 <meta name="twitter:card" 				content="photo"/>
-<meta name="twitter:url" 				content="http://mahcode.com/share_article"/>
+<meta name="twitter:url" 				content="http://mahcode.com/share_article/"/>
 ```
+
 ###Step 3
 Include the code from ``functions.js`` and  ``style.css`` into your code files.  If you have a main javascript file in your site, then include the code from ``functions.js``. And do the same with the css file. Just copy the styles from ``style.css`` into your main css file.
 Then add the following HTML into your page in order to display the buttons
